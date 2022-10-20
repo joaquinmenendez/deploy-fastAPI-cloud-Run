@@ -1,0 +1,4 @@
+# default ignored files
+.env
+.idea
+service-account-file.json

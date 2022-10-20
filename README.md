@@ -1,4 +1,4 @@
-# Pasos simples para exponer un modelo Machine Learning via Fast API
+# Pasos simples para exponer un modelo de ML via Fast API
 
 En el root encontrarás todos los scripts necesarios para poder disponibilizar un servicio de API REST en 
 Google Cloud Run.
